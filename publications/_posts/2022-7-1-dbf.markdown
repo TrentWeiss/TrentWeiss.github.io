@@ -5,7 +5,7 @@ image: /publications/images/project-image.jpg
 image_onhover: /publications/images/project-image-on-hover.jpg
 author: "Trent Weiss"
 authors: "<strong>Trent Weiss, Madhur Behl</strong>"
-venue: "IEEE RA-L. Presented at IROS 2022"
+venue: "IEEE RA-L. Presented at IROS"
 bib: |
   @ARTICLE{9839552,
   author={Weiss, Trent and Behl, Madhur},
