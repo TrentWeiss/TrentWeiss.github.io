@@ -18,6 +18,6 @@ bib: |
   doi={10.1109/LRA.2022.3193496}
   }
 links:
-  code: https://github.com/TrentWeiss/deepracing.git
+  code: https://github.com/linklab-uva/deepracing.git
 ---
 Brief description of the project.
