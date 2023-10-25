@@ -1,0 +1,22 @@
+---
+title:  "Another title of the publication"
+date:   2021-07-12 09:26:00 +00:00
+image: /publications/images/project-image.jpg
+image_onhover: /publications/images/project-image-on-hover.jpg
+author: "Trent Weiss"
+authors: "<strong>Trent Weiss, Madhur Behl</strong>"
+venue: "IEEE RA-L. Presented at IROS 2022"
+bib: |
+  @ARTICLE{9839552,
+  author={Weiss, Trent and Behl, Madhur},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={This is the Way: Differential Bayesian Filtering for Agile Trajectory Synthesis}, 
+  year={2022},
+  volume={7},
+  number={4},
+  pages={10414-10421},
+  doi={10.1109/LRA.2022.3193496}
+  }
+# links:
+#   code: https://github.com/vsimkus/academic-jekyll
+---
