@@ -20,4 +20,4 @@ bib: |
 links:
   code: https://github.com/linklab-uva/deepracing.git
 ---
-Brief description of the project.
+A Bayesian interpretation of high-speed autonomous path planning.
