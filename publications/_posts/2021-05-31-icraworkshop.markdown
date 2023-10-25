@@ -16,4 +16,4 @@ bib: |
 links:
   code: https://github.com/linklab-uva/deepracing.git
 ---
-A Bayesian interpretation of high-speed autonomous path planning.
+A machine-learning approach to multi-agent trajectory prediction.
