@@ -2,7 +2,7 @@
 title:  "DeepRacing: A framework for autonomous racing"
 date: "2020-03-9"
 image: /publications/images/deepracing_date.gif
-image_onhover: /publications/images/project-image-on-hover.jpg
+image_onhover: /publications/images/deepracing_date.gif
 author: "Trent Weiss"
 authors: "<strong>Trent Weiss, Madhur Behl</strong>"
 venue: "Design, Automation & Test in Europe Conference (DATE)"
