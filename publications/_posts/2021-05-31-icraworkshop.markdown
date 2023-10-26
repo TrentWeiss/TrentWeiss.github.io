@@ -1,7 +1,7 @@
 ---
 title:  "Towards multi-agent autonomous racing with the Deepracing framework."
 date: "2021-05-31"
-image: /publications/images/project-image.jpg
+image: /publications/images/deepracing_state_estimation.png
 image_onhover: /publications/images/project-image-on-hover.jpg
 author: "Trent Weiss"
 authors: "<strong>Trent Weiss, John Chrosniak, Madhur Behl</strong>"

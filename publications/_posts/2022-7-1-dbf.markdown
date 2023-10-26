@@ -1,8 +1,8 @@
 ---
 title:  "This is the Way: Differential Bayesian Filtering for Agile Trajectory Synthesis"
 date:  2022-07-1
-image: /publications/images/project-image.jpg
-image_onhover: /publications/images/project-image-on-hover.jpg
+image: /publications/images/dbf_hero_figure.gif
+image_onhover: /publications/images/dbf_hero_figure.gif
 author: "Trent Weiss"
 authors: "<strong>Trent Weiss, Madhur Behl</strong>"
 venue: "IEEE RA-L. Presented at IROS"
