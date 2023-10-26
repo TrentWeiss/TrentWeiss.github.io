@@ -1,8 +1,8 @@
 ---
 title:  "DeepRacing: Parameterized Trajectories for Autonomous Racing"
 date: "2020-12-1"
-image: /publications/images/project-image.jpg
-image_onhover: /publications/images/project-image-on-hover.jpg
+image: /publications/images/control_plot.png
+image_onhover: /publications/images/control_plot.png
 author: "Trent Weiss"
 authors: "<strong>Trent Weiss, Madhur Behl</strong>"
 venue: "Neurips ML4AD Workshop"
@@ -16,5 +16,6 @@ bib: |
     primaryClass={cs.RO}}
 links:
   code: https://github.com/linklab-uva/deepracing.git
+  paper: https://ml4ad.github.io/files/papers2020/B%C3%A9zier%20Curve%20Based%20End-to-End%20Trajectory%20Synthesis%20for%20Agile%20Autonomous%20Driving.pdf
 ---
 A Bezier-curve based method of trajectory synthesis for agile autonomous racing.

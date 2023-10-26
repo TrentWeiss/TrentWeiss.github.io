@@ -18,5 +18,6 @@ bib: |
   doi={10.23919/DATE48585.2020.9116486}}
 links:
   code: https://github.com/linklab-uva/deepracing.git
+  paper: https://doi.org/10.23919/DATE48585.2020.9116486
 ---
 A description

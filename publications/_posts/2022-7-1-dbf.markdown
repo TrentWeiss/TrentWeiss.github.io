@@ -19,5 +19,6 @@ bib: |
   }
 links:
   code: https://github.com/linklab-uva/deepracing.git
+  paper: https://doi.org/10.1109/LRA.2022.3193496
 ---
 A Bayesian interpretation of high-speed autonomous path planning.

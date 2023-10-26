@@ -15,5 +15,6 @@ bib: |
   }
 links:
   code: https://github.com/linklab-uva/deepracing.git
+  paper: "https://par.nsf.gov/servlets/purl/10320142"
 ---
 A machine-learning approach to multi-agent trajectory prediction.
