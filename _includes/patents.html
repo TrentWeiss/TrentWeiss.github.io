@@ -1,12 +1,12 @@
-{% assign publication_posts = site.posts | where_exp: "post", "post.paper" %}
-{% if publication_posts.size > 0 %}
+{% assign patent_posts = site.posts | where_exp: "post", "post.patent" %}
+{% if patent_posts.size > 0 %}
 <div class="row py-2">
-    <div class="col-md-12" id="publications">
-        <h2>Research</h2>
+    <div class="col-md-12" id="patents">
+        <h2>Patents</h2>
     </div>
 </div>
-{% for post in publication_posts %}
-<div class="row py-2 publication">
+{% for post in patent_posts %}
+<div class="row py-2 patent">
     <div class="col-md-2 col-sm-12 project-thumbnail-parent" align="center">
         <img class="project-thumbnail {% if post.image_onhover %} pre-hover {% endif %}" src="{{site.baseurl}}/tn{{post.image}}" alt="project image" />
         {% if post.image_onhover %}
@@ -20,7 +20,7 @@
             {{post.authors}}
         </div>
 
-        <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+        <!-- <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }} -->
         <br>
         {% assign need_separator = false %}
         {% if post.page_url %}

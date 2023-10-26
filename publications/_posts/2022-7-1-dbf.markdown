@@ -1,6 +1,8 @@
 ---
 title:  "This is the Way: Differential Bayesian Filtering for Agile Trajectory Synthesis"
 date:  2022-07-1
+patent: False
+paper: True
 image: /publications/images/dbf_hero_figure.gif
 image_onhover: /publications/images/dbf_hero_figure.gif
 author: "Trent Weiss"

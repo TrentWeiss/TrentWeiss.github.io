@@ -1,6 +1,8 @@
 ---
 title:  "DeepRacing: Parameterized Trajectories for Autonomous Racing"
 date: "2020-12-1"
+patent: False
+paper: True
 image: /publications/images/control_plot.png
 image_onhover: /publications/images/control_plot.png
 author: "Trent Weiss"
