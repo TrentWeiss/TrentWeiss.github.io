@@ -5,7 +5,7 @@ date: "2020-03-9"
 image: /other/images/IAC_withcar.png
 venue: "Texas Motor Speedway, Indianapolis Motor Speedway, and Lucas Oil Raceway"
 author: "Trent Weiss"
-other_html: [state_estimation.html,]
+other_html: [perception.html, state_estimation.html]
 # links:
 #   asdf: https://github.com/linklab-uva/deepracing.git
 ---
