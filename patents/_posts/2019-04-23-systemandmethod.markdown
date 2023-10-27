@@ -10,4 +10,4 @@ authors: "<strong>Philip L Freeman, Trent T Weiss, Shubang Sridhar</strong>"
 links:
   Patent: https://patents.google.com/patent/US10268177B2/en
 ---
-A description
+A method of coordinating automated systems, one with pre-defined operating instructions, and the other determining it's behavior on-the-fly based on process requirements.
