@@ -29,6 +29,11 @@
         {% endif %}
         <p></p>
         {{ post.excerpt }}
+        {% if post.other_html %}
+            {% for other_html in post.other_html %}
+               {% include_relative   other/html/{{other_html}} %}
+            {% endfor %}
+        {% endif %}
     </div>
 </div>
 {% endfor %}
