@@ -8,6 +8,6 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
-publications/videos/
+**/videos/
 # tn/
-# favicon.ico
+# favicon.ico**/videos/
