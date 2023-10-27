@@ -63,7 +63,7 @@
             {% for video in post.videos %}
                 {% assign file = video[0] %}
                 {% assign video_tags = video[1] %}
-                <video id="{{file}}" width='720' height='720' preload='auto' controls poster='{{video_tags[1]}}'> 
+                <video id="{{file}}" width='720' height='480' preload='auto' controls poster='{{video_tags[1]}}'> 
                     <source src='publications/videos/{{file}}.mp4' type='video/mp4'/>
                 </video>
                 <script>
@@ -73,7 +73,7 @@
         {% endif %}
         {% if post.youtube_links %}
             {% for youtube_link in post.youtube_links %}
-            <iframe width="720" height="720" src="{{youtube_link}}" 
+            <iframe width="720" height="480" src="{{youtube_link}}" 
             title="YouTube video player" 
             frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
             allowfullscreen></iframe>
