@@ -1,7 +1,7 @@
 ---
 title:  "This is the Way: Differential Bayesian Filtering for Agile Trajectory Synthesis"
 date:  2022-07-1
-paper: True
+publication: True
 videos:
   DBF-RAL-Compressed: [60,] #, /publications/images/dbf_hero_figure.gif]
 image: /publications/images/dbf_hero_figure.gif
