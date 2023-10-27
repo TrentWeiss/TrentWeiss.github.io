@@ -1,0 +1,26 @@
+{% assign teaching_posts = site.posts | where_exp: "post", "post.teaching" %}
+{% if teaching_posts.size > 0 %}
+<div class="row py-2">
+    <div class="col-md-12" id="teaching">
+        <h2>Teaching</h2>
+    </div>
+</div>
+{% for post in teaching_posts %}
+<div class="row py-2 teaching">
+    <!-- {{site.baseurl}}/ -->
+    <div class="col-md-10 col-sm-12 project-description">
+        <h3>{{post.title}}</h3>
+        <br>
+        {% if post.links %}
+            {% for link in post.links %}
+                {% if need_separator %} / {% endif %}
+                {% assign need_separator = true %}
+                <a href="{{link[1]}}">{{link[0]}}</a>
+            {% endfor %}
+        {% endif %}
+        <p></p>
+        {{ post.excerpt }}
+    </div>
+</div>
+{% endfor %}
+{% endif %}
