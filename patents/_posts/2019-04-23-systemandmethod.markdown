@@ -1,7 +1,6 @@
 ---
 title:  "Method and apparatus of coordinating independent automated systems"
 patent: True
-paper: False
 date: "2019-04-23"
 image: /patents/images/US_10268177_B2.png
 image_onhover: /patents/images/US_10268177_B2.png

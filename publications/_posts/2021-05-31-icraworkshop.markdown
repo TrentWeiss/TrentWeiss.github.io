@@ -1,7 +1,6 @@
 ---
 title:  "Towards multi-agent autonomous racing with the Deepracing framework."
 date: "2021-05-31"
-patent: False
 paper: True
 image: /publications/images/deepracing_state_estimation.png
 image_onhover: /publications/images/project-image-on-hover.jpg

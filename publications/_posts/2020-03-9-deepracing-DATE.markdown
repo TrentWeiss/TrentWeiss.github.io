@@ -1,7 +1,6 @@
 ---
 title:  "DeepRacing: A framework for autonomous racing"
 date: "2020-03-9"
-patent: False
 paper: True
 image: /publications/images/deepracing_date.gif
 image_onhover: /publications/images/deepracing_date.gif
