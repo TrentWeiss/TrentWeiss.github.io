@@ -6,3 +6,8 @@ mogrify -path tn/publications/images -thumbnail 160x160 publications/images/*.gi
 
 mkdir -p tn/patents/images
 mogrify -path tn/patents/images -thumbnail 160x160 patents/images/*.png
+
+
+mkdir -p tn/other/images
+mogrify -path tn/other/images -thumbnail 160x160 other/images/*.jpg
+mogrify -path tn/other/images -thumbnail 160x160 other/images/*.png
