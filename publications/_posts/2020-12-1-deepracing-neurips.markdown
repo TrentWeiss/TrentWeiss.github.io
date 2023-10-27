@@ -2,8 +2,9 @@
 title:  "DeepRacing: Parameterized Trajectories for Autonomous Racing"
 date: "2020-12-1"
 publication: True
-videos:
-  bezier: [0, /publications/images/control_plot.png]
+# videos:
+#   bezier: [0, /publications/images/control_plot.png]
+youtube_links: ["https://www.youtube.com/embed/u-1Yi7IsHF0?si=dFqt6CdHLMMkGpei",]
 image: /publications/images/control_plot.png
 image_onhover: /publications/images/control_plot.png
 author: "Trent Weiss"
