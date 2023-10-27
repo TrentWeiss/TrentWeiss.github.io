@@ -10,3 +10,7 @@
   link: /
   anchor: '#patents'
   highlight: false
+- name: Other Work
+  link: /
+  anchor: '#other'
+  highlight: false
