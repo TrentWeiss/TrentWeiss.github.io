@@ -3,7 +3,7 @@ title:  "This is the Way: Differential Bayesian Filtering for Agile Trajectory S
 date:  2022-07-1
 publication: True
 videos:
-  DBF-RAL-Compressed: [60,] #, /publications/images/dbf_hero_figure.gif]
+  DBF-RAL-Compressed: [60, /publications/images/dbf_hero_figure.gif]
 image: /publications/images/dbf_hero_figure.gif
 image_onhover: /publications/images/dbf_hero_figure.gif
 author: "Trent Weiss"
