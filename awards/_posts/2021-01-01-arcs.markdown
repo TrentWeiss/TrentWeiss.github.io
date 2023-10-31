@@ -1,0 +1,8 @@
+---
+title: "2021-2022 ARCS Scholar: Metro Washington Chapter"
+award: True
+date: "2021-01-01"
+# image: /other/images/IAC_withcar.png
+author: "Trent Weiss"
+---
+Selected for a scholarship by the Metro Washington Chapter of the ARCS Foundation.
