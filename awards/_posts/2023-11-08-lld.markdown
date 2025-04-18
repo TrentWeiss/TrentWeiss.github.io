@@ -1,0 +1,8 @@
+---
+title: "UVA Link Lab Distinguished Research Award"
+award: True
+date: "2023-11-08"
+# image: /other/images/IAC_withcar.png
+author: "Trent Weiss"
+---
+Selected for showcasing the highest quality research in cyber-physical at the UVA Link Lab
