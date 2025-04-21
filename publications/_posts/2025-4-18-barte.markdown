@@ -8,7 +8,7 @@ image: /publications/images/bartemain.gif
 image_onhover: /publications/images/bartemain.png
 author: "Trent Weiss"
 authors: "<strong>Trent Weiss, Madhur Behl</strong>"
-venue: "Journal of Intelligint and Robotic Systems (Under Review)"
+venue: "Journal of Intelligent and Robotic Systems (Under Review)"
 bib: |
   @article{BARTe,
   author    = {Trent Weiss and Madhur Behl},
