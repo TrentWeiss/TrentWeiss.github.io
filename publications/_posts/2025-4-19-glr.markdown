@@ -1,0 +1,25 @@
+---
+title:  "The Gauss-Legendre Rectangle (GLR) Algorithm for Collision Risk Estimation"
+date:  2025-04-19
+publication: True
+videos:
+  glr_video: [0, /publications/videos/glr_video.mp4]
+image: /publications/images/glr.png
+image_onhover: /publications/images/glr.png
+author: "Trent Weiss"
+authors: "<strong>Trent Weiss, Madhur Behl</strong>"
+venue: "IROS 2025 (Under Review)"
+# bib: |
+#   @article{BARTe,
+#   author    = {Trent Weiss and Madhur Behl},
+#   title     = {BARTé: Composite Bézier Curves for Racing Trajectory Estimation},
+#   journal   = {TechRxiv},
+#   year      = {2025},
+#   url       = {https://doi.org/10.36227/techrxiv.174058869.96530302/v1},
+#   biburl    = {https://doi.org/10.36227/techrxiv.174058869.96530302/v1}
+#   }
+links:
+  code: https://github.com/linklab-uva/deepracing.git
+  # paper: https://doi.org/10.36227/techrxiv.174058869.96530302/v1
+---
+An approach to collision risk estimation based on Gauss-Legendre Quadrature and Non-homogenous Poisson Processes
