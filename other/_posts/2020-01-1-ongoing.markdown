@@ -1,0 +1,12 @@
+---
+title: "Ongoing Research"
+other: True
+date: "2020-03-9"
+image: /other/images/IAC_withcar.png
+venue: "Anywhere Autonomous Vehicles Are Needed :)"
+author: "Trent Weiss"
+other_html: [dbf_overtaking.html]
+# links:
+#   asdf: https://github.com/linklab-uva/deepracing.git
+---
+My ongoing work uses an extension of the Differential Bayesian Filtering framework to generate overtaking trajectories in racing situations.
