@@ -1,0 +1,27 @@
+---
+title:  "This is the Way: Differential Bayesian Filtering for Agile Trajectory Synthesis"
+date:  2022-07-1
+publication: True
+videos:
+  DBF-RAL-Compressed: [60, /publications/videos/DBF-RAL-Compressed.mp4]
+image: /publications/images/dbf_hero_figure.gif
+image_onhover: /publications/images/dbf_hero_figure.gif
+author: "Trent Weiss"
+authors: "<strong>Trent Weiss, Madhur Behl</strong>"
+venue: "IEEE RA-L. Presented at IROS"
+bib: |
+  @ARTICLE{9839552,
+  author={Weiss, Trent and Behl, Madhur},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={This is the Way: Differential Bayesian Filtering for Agile Trajectory Synthesis}, 
+  year={2022},
+  volume={7},
+  number={4},
+  pages={10414-10421},
+  doi={10.1109/LRA.2022.3193496}
+  }
+links:
+  code: https://github.com/linklab-uva/deepracing.git
+  paper: https://doi.org/10.1109/LRA.2022.3193496
+---
+A Bayesian interpretation of high-speed autonomous path planning.
